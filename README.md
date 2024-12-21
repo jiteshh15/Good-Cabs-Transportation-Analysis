@@ -1,10 +1,13 @@
 # Good-Cabs-Transportation-Analysis
 
 🌟 Resume Project #13: GoodCabs Performance Analysis 🌟
+
 Domain: Transportation & Mobility
+
 Function: Operations
 
 Problem Statement
+
 GoodCabs, a cab service company operating in 10 tier-2 cities in India, aims to achieve ambitious growth targets for 2024. The company’s focus is on improving passenger satisfaction and driving business growth.
 
 Project Overview
